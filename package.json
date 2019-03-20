@@ -1,0 +1,26 @@
+{
+  "name": "array-extends",
+  "version": "0.1.0",
+  "description": "array extends",
+  "main": "src/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/lib/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/array-extends.git"
+  },
+  "keywords": [
+    "array-extends",
+    "array"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/array-extends/issues"
+  },
+  "homepage": "https://github.com/gavinning/array-extends#readme"
+}
