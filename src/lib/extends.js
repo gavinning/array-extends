@@ -65,7 +65,7 @@ const extensions = module.exports = {
         if (this.slice().powerful) {
             return this.slice().powerful()
         }
-        return PowerArray(this, module.exports)
+        return PowerArray(this.slice(), module.exports)
     },
 
     // this改变
